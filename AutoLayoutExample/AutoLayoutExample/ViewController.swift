@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  ExampleProject
+//  AutoLayoutExample
 //
-//  Created by HaseokJang on 2023/01/11.
+//  Created by HaseokJang on 2023/01/16.
 //
 
 import UIKit
@@ -17,4 +17,3 @@ class ViewController: UIViewController {
 
 }
 
- 
