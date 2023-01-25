@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ScreenTransactionExample
+//  screenTransactionExample
 //
 //  Created by HaseokJang on 2023/01/25.
 //
